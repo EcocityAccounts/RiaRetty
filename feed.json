@@ -1,55 +1,69 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Ria&#x27;s Ital Cooking Site",
+    "title": "Ria Retty",
     "description": "",
-    "home_page_url": "http://ria&#x27;sitalcookingsite",
-    "feed_url": "http://ria&#x27;sitalcookingsite/feed.json",
+    "home_page_url": "https://riaretty.now.sh",
+    "feed_url": "https://riaretty.now.sh/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ria Retty"
     },
     "items": [
         {
-            "id": "http://ria&#x27;sitalcookingsite/spoken-word.html",
-            "url": "http://ria&#x27;sitalcookingsite/spoken-word.html",
-            "title": "Spoken Word",
-            "summary": " Food is something essential . The kitchen to the cook with passion offers love to all ; family,friends,strangers........ Me honey , me love , Welcome to me pot , Tasty chicken it do have , Chicken sizzle hot hot , Me kitchen never empty&hellip;",
-            "content_html": "<p> </p>\n<h2 id=\"mcetoc_1dpl2th4c0\"><strong>Food is something essential</strong></h2>\n<p>Food is something essential . The kitchen to  the cook with passion offers love to all ; family,friends,strangers........</p>\n<p>Me honey , me love ,</p>\n<p>Welcome to me pot ,</p>\n<p>Tasty chicken it do have ,</p>\n<p>Chicken sizzle hot hot ,</p>\n<p>Me kitchen never empty ,</p>\n<p>Me kitchen like me love ,</p>\n<p>Will always be there ,</p>\n<p>I know your tummy grambling ,</p>\n<p>De reason why  you mumbling ,</p>\n<p>In me kitchen eggs me scrambling ,</p>\n<p>I know your worms dem gambling ,</p>\n<p>Sit down be patient ,</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "id": "https://riaretty.now.sh/just-food.html",
+            "url": "https://riaretty.now.sh/just-food.html",
+            "title": "Just food ?",
+            "summary": "Ria Retty doesnt just focus on food , She also has an interest for talent . \"most young people lack moral support when it comes to talent and its up to a few people like me who can help know how and where to generate&hellip;",
+            "content_html": "Ria Retty doesnt just focus on food , She also has an interest for talent . \"most young people lack moral support when it comes to talent and its up to a few people like me who can help know how and where to generate this positive energy \" Ria says, she is a songwriter and a poet herself and most of her spokenword has hit the top bars like; slayqueen , wonder , utoi and many more .",
             "author": {
                 "name": "Ria Retty"
             },
             "tags": [
             ],
-            "date_published": "2019-11-11T20:54:10-07:00",
-            "date_modified": "2019-11-14T16:07:16-07:00"
+            "date_published": "2019-11-17T23:29:47-05:00",
+            "date_modified": "2019-11-17T23:30:35-05:00"
         },
         {
-            "id": "http://ria&#x27;sitalcookingsite/african-oral-literature.html",
-            "url": "http://ria&#x27;sitalcookingsite/african-oral-literature.html",
-            "title": "African Oral Literature",
-            "summary": "This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope i",
-            "content_html": "<p>This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope</p>\n<p>i</p>",
+            "id": "https://riaretty.now.sh/spoken-word.html",
+            "url": "https://riaretty.now.sh/spoken-word.html",
+            "title": "About ",
+            "summary": "This site encourages people to live healthy . Empowering any person with basic knowledge on healthy food , it also mixes all arts and involves all kinds of people from allover the globe . ",
+            "content_html": "<p>This site encourages people to live healthy . Empowering any person with basic knowledge on healthy food , it also mixes all arts and involves all kinds of people from allover the globe .</p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Ria Retty"
             },
             "tags": [
             ],
-            "date_published": "2019-11-10T13:53:38-07:00",
-            "date_modified": "2019-11-10T13:53:40-07:00"
+            "date_published": "2019-11-11T22:54:10-05:00",
+            "date_modified": "2019-11-17T23:35:06-05:00"
         },
         {
-            "id": "http://ria&#x27;sitalcookingsite/about-2.html",
-            "url": "http://ria&#x27;sitalcookingsite/about-2.html",
-            "title": "about",
-            "summary": "this is a site about healthy page",
-            "content_html": "this is a site about healthy page",
+            "id": "https://riaretty.now.sh/african-oral-literature.html",
+            "url": "https://riaretty.now.sh/african-oral-literature.html",
+            "title": "Spices and food ",
+            "summary": "Some few years of good eat make you realise that health can sometimes be fun , yum and informative . Spices make a big part of food but what are they really ?",
+            "content_html": "Some few years of good eat make you realise that health can sometimes be fun , yum and informative . Spices make a big part of food but what are they really ?",
             "author": {
                 "name": "Ria Retty"
             },
             "tags": [
             ],
-            "date_published": "2019-11-10T13:43:31-07:00",
-            "date_modified": "2019-11-10T13:43:31-07:00"
+            "date_published": "2019-11-10T15:53:38-05:00",
+            "date_modified": "2019-11-17T23:51:29-05:00"
+        },
+        {
+            "id": "https://riaretty.now.sh/about-2.html",
+            "url": "https://riaretty.now.sh/about-2.html",
+            "title": "Health",
+            "summary": "This is one of the basic things in life people choose to ignore but we choose to remind them of the goodness of healthy life",
+            "content_html": "This is one of the basic things in life people choose to ignore but we choose to remind them of the goodness of healthy life",
+            "author": {
+                "name": "Ria Retty"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-10T15:43:31-05:00",
+            "date_modified": "2019-11-17T23:38:46-05:00"
         }
     ]
 }

@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Ria&#x27;s Ital Cooking Site</title>
-    <link href="http://ria&#x27;sitalcookingsite/feed.xml" rel="self" />
-    <link href="http://ria&#x27;sitalcookingsite" />
-    <updated>2019-11-17T20:45:39-07:00</updated>
+    <title>Ria Retty</title>
+    <link href="https://riaretty.now.sh/feed.xml" rel="self" />
+    <link href="https://riaretty.now.sh" />
+    <updated>2019-12-01T21:06:52-05:00</updated>
     <author>
         <name>Ria Retty</name>
     </author>
-    <id>http://ria&#x27;sitalcookingsite</id>
+    <id>https://riaretty.now.sh</id>
 
     <entry>
-        <title>Spoken Word</title>
+        <title>Just food ?</title>
         <author>
             <name>Ria Retty</name>
         </author>
-        <link href="http://ria&#x27;sitalcookingsite/spoken-word.html"/>
-        <id>http://ria&#x27;sitalcookingsite/spoken-word.html</id>
+        <link href="https://riaretty.now.sh/just-food.html"/>
+        <id>https://riaretty.now.sh/just-food.html</id>
 
-        <updated>2019-11-14T16:07:16-07:00</updated>
+        <updated>2019-11-17T23:30:35-05:00</updated>
             <summary>
                 <![CDATA[
-                     Food is something essential . The kitchen to the cook with passion offers love to all ; family,friends,strangers........ Me honey , me love , Welcome to me pot , Tasty chicken it do have , Chicken sizzle hot hot , Me kitchen never empty&hellip;
+                    Ria Retty doesnt just focus on food , She also has an interest for talent . "most young people lack moral support when it comes to talent and its up to a few people like me who can help know how and where to generate&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<h2 id="mcetoc_1dpl2th4c0"><strong>Food is something essential</strong></h2>
-<p>Food is something essential . The kitchen to  the cook with passion offers love to all ; family,friends,strangers........</p>
-<p>Me honey , me love ,</p>
-<p>Welcome to me pot ,</p>
-<p>Tasty chicken it do have ,</p>
-<p>Chicken sizzle hot hot ,</p>
-<p>Me kitchen never empty ,</p>
-<p>Me kitchen like me love ,</p>
-<p>Will always be there ,</p>
-<p>I know your tummy grambling ,</p>
-<p>De reason why  you mumbling ,</p>
-<p>In me kitchen eggs me scrambling ,</p>
-<p>I know your worms dem gambling ,</p>
-<p>Sit down be patient ,</p>
+                Ria Retty doesnt just focus on food , She also has an interest for talent . "most young people lack moral support when it comes to talent and its up to a few people like me who can help know how and where to generate this positive energy " Ria says, she is a songwriter and a poet herself and most of her spokenword has hit the top bars like; slayqueen , wonder , utoi and many more .
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About </title>
+        <author>
+            <name>Ria Retty</name>
+        </author>
+        <link href="https://riaretty.now.sh/spoken-word.html"/>
+        <id>https://riaretty.now.sh/spoken-word.html</id>
+
+        <updated>2019-11-17T23:35:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This site encourages people to live healthy . Empowering any person with basic knowledge on healthy food , it also mixes all arts and involves all kinds of people from allover the globe . 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This site encourages people to live healthy . Empowering any person with basic knowledge on healthy food , it also mixes all arts and involves all kinds of people from allover the globe .</p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -47,43 +53,42 @@
         </content>
     </entry>
     <entry>
-        <title>African Oral Literature</title>
+        <title>Spices and food </title>
         <author>
             <name>Ria Retty</name>
         </author>
-        <link href="http://ria&#x27;sitalcookingsite/african-oral-literature.html"/>
-        <id>http://ria&#x27;sitalcookingsite/african-oral-literature.html</id>
+        <link href="https://riaretty.now.sh/african-oral-literature.html"/>
+        <id>https://riaretty.now.sh/african-oral-literature.html</id>
 
-        <updated>2019-11-10T13:53:40-07:00</updated>
+        <updated>2019-11-17T23:51:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope i
+                    Some few years of good eat make you realise that health can sometimes be fun , yum and informative . Spices make a big part of food but what are they really ?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope</p>
-<p>i</p>
+                Some few years of good eat make you realise that health can sometimes be fun , yum and informative . Spices make a big part of food but what are they really ?
             ]]>
         </content>
     </entry>
     <entry>
-        <title>about</title>
+        <title>Health</title>
         <author>
             <name>Ria Retty</name>
         </author>
-        <link href="http://ria&#x27;sitalcookingsite/about-2.html"/>
-        <id>http://ria&#x27;sitalcookingsite/about-2.html</id>
+        <link href="https://riaretty.now.sh/about-2.html"/>
+        <id>https://riaretty.now.sh/about-2.html</id>
 
-        <updated>2019-11-10T13:43:31-07:00</updated>
+        <updated>2019-11-17T23:38:46-05:00</updated>
             <summary>
                 <![CDATA[
-                    this is a site about healthy page
+                    This is one of the basic things in life people choose to ignore but we choose to remind them of the goodness of healthy life
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                this is a site about healthy page
+                This is one of the basic things in life people choose to ignore but we choose to remind them of the goodness of healthy life
             ]]>
         </content>
     </entry>
