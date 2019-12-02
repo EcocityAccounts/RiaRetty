@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ria&#x27;s Ital Cooking Site",
+    "description": "",
+    "home_page_url": "http://ria&#x27;sitalcookingsite",
+    "feed_url": "http://ria&#x27;sitalcookingsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ria Retty"
+    },
+    "items": [
+        {
+            "id": "http://ria&#x27;sitalcookingsite/spoken-word.html",
+            "url": "http://ria&#x27;sitalcookingsite/spoken-word.html",
+            "title": "Spoken Word",
+            "summary": " Food is something essential . The kitchen to the cook with passion offers love to all ; family,friends,strangers........ Me honey , me love , Welcome to me pot , Tasty chicken it do have , Chicken sizzle hot hot , Me kitchen never empty&hellip;",
+            "content_html": "<p> </p>\n<h2 id=\"mcetoc_1dpl2th4c0\"><strong>Food is something essential</strong></h2>\n<p>Food is something essential . The kitchen to  the cook with passion offers love to all ; family,friends,strangers........</p>\n<p>Me honey , me love ,</p>\n<p>Welcome to me pot ,</p>\n<p>Tasty chicken it do have ,</p>\n<p>Chicken sizzle hot hot ,</p>\n<p>Me kitchen never empty ,</p>\n<p>Me kitchen like me love ,</p>\n<p>Will always be there ,</p>\n<p>I know your tummy grambling ,</p>\n<p>De reason why  you mumbling ,</p>\n<p>In me kitchen eggs me scrambling ,</p>\n<p>I know your worms dem gambling ,</p>\n<p>Sit down be patient ,</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Ria Retty"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-11T20:54:10-07:00",
+            "date_modified": "2019-11-14T16:07:16-07:00"
+        },
+        {
+            "id": "http://ria&#x27;sitalcookingsite/african-oral-literature.html",
+            "url": "http://ria&#x27;sitalcookingsite/african-oral-literature.html",
+            "title": "African Oral Literature",
+            "summary": "This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope i",
+            "content_html": "<p>This is Traditional African way of education which may be getting extinct or could we say privatised?while it should be an ope</p>\n<p>i</p>",
+            "author": {
+                "name": "Ria Retty"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-10T13:53:38-07:00",
+            "date_modified": "2019-11-10T13:53:40-07:00"
+        },
+        {
+            "id": "http://ria&#x27;sitalcookingsite/about-2.html",
+            "url": "http://ria&#x27;sitalcookingsite/about-2.html",
+            "title": "about",
+            "summary": "this is a site about healthy page",
+            "content_html": "this is a site about healthy page",
+            "author": {
+                "name": "Ria Retty"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-10T13:43:31-07:00",
+            "date_modified": "2019-11-10T13:43:31-07:00"
+        }
+    ]
+}
